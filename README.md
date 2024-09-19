@@ -1,5 +1,5 @@
 # Mariev
-- um,dois....
+- dois....
 - três, quatro
 - ### @marievmrnd 📫
 
